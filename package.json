@@ -1,0 +1,10 @@
+{
+  "scripts": {
+    "test": "standardx ./src"
+  },
+  "dependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint-plugin-import": "^2.22.0",
+    "standardx": "^5.0.0"
+  }
+}
